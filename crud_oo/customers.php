@@ -257,7 +257,10 @@ class Customer {
             </head>
             <body>
                 <div>
-            <a href="https://github.com/jjrober2/CIS355-prog1">Github Repo</a>
+            <a href="https://github.com/jjrober2/CIS355-Prog2">Github Repo</a>
+        	<a href='http://csis.svsu.edu/~jjrober2/cis355/crud_oo/ScreenFlowDiagram.PNG' target='_blank'>Screen Flow Diagram</a><br />
+		    <a href='http://csis.svsu.edu/~jjrober2/cis355/crud_oo/ClassDiagramProg2.PNG' target='_blank'>Class Diagram</a><br />
+
 </div>
                 <div class='container'>
                     <p class='row'>
